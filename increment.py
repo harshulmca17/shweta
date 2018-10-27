@@ -17,6 +17,9 @@ def sum(num1,num2):
                           second number
        output : sum of numbers
     '''
+    '''
+    approach : using add operator 
+    '''
     if(num1>0 and num2>0):
       if(num1>num2):
          if(num2!=0):
