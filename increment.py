@@ -1,11 +1,16 @@
 def increment(n):
+    
     '''
        objective: to increment a no.
        input parameters: a number
        output: incremented no.
     '''
+    '''
+    approach : using single step increment 
+    '''
     return(n+1)
 def sum(num1,num2):
+    
     '''
        objective : to obtain sum of two non negative no.s
        input parameters : first number
